@@ -1,0 +1,36 @@
+C:\Users\almog\source\repos\Book Store\BookLib\bin\Debug\netstandard2.0\BookLib.deps.json
+C:\Users\almog\source\repos\Book Store\BookLib\bin\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\source\repos\Book Store\BookLib\bin\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\source\repos\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.csprojAssemblyReference.cache
+C:\Users\almog\source\repos\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\almog\source\repos\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfo.cs
+C:\Users\almog\source\repos\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\almog\source\repos\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\source\repos\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\Desktop\Book Store\BookLib\bin\Debug\netstandard2.0\BookLib.deps.json
+C:\Users\almog\Desktop\Book Store\BookLib\bin\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\Desktop\Book Store\BookLib\bin\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\Desktop\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.csprojAssemblyReference.cache
+C:\Users\almog\Desktop\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\almog\Desktop\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfo.cs
+C:\Users\almog\Desktop\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\almog\Desktop\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\Desktop\Book Store\BookLib\obj\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\Desktop\projects\BookStore\BookLib\bin\Debug\netstandard2.0\BookLib.deps.json
+C:\Users\almog\Desktop\projects\BookStore\BookLib\bin\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\Desktop\projects\BookStore\BookLib\bin\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\Desktop\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.csprojAssemblyReference.cache
+C:\Users\almog\Desktop\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\almog\Desktop\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfo.cs
+C:\Users\almog\Desktop\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\almog\Desktop\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\Desktop\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\bin\Debug\netstandard2.0\BookLib.deps.json
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\bin\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\bin\Debug\netstandard2.0\BookLib.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.csprojAssemblyReference.cache
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfo.cs
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.dll
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\BookLib\obj\Debug\netstandard2.0\BookLib.pdb

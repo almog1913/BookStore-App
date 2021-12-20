@@ -1,0 +1,40 @@
+C:\Users\almog\source\repos\Book Store\Book Store\bin\Debug\Book Store.exe.config
+C:\Users\almog\source\repos\Book Store\Book Store\bin\Debug\Book Store.exe
+C:\Users\almog\source\repos\Book Store\Book Store\bin\Debug\Book Store.pdb
+C:\Users\almog\source\repos\Book Store\Book Store\bin\Debug\BookLib.dll
+C:\Users\almog\source\repos\Book Store\Book Store\bin\Debug\BookLib.pdb
+C:\Users\almog\source\repos\Book Store\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\almog\source\repos\Book Store\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\almog\source\repos\Book Store\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\almog\source\repos\Book Store\Book Store\obj\Debug\Book Store.exe
+C:\Users\almog\source\repos\Book Store\Book Store\obj\Debug\Book Store.pdb
+C:\Users\almog\Desktop\Book Store\Book Store\bin\Debug\Book Store.exe.config
+C:\Users\almog\Desktop\Book Store\Book Store\bin\Debug\Book Store.exe
+C:\Users\almog\Desktop\Book Store\Book Store\bin\Debug\Book Store.pdb
+C:\Users\almog\Desktop\Book Store\Book Store\bin\Debug\BookLib.dll
+C:\Users\almog\Desktop\Book Store\Book Store\bin\Debug\BookLib.pdb
+C:\Users\almog\Desktop\Book Store\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\almog\Desktop\Book Store\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\almog\Desktop\Book Store\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\almog\Desktop\Book Store\Book Store\obj\Debug\Book Store.exe
+C:\Users\almog\Desktop\Book Store\Book Store\obj\Debug\Book Store.pdb
+C:\Users\almog\Desktop\projects\BookStore\Book Store\bin\Debug\Book Store.exe.config
+C:\Users\almog\Desktop\projects\BookStore\Book Store\bin\Debug\Book Store.exe
+C:\Users\almog\Desktop\projects\BookStore\Book Store\bin\Debug\Book Store.pdb
+C:\Users\almog\Desktop\projects\BookStore\Book Store\bin\Debug\BookLib.dll
+C:\Users\almog\Desktop\projects\BookStore\Book Store\bin\Debug\BookLib.pdb
+C:\Users\almog\Desktop\projects\BookStore\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\almog\Desktop\projects\BookStore\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\almog\Desktop\projects\BookStore\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\almog\Desktop\projects\BookStore\Book Store\obj\Debug\Book Store.exe
+C:\Users\almog\Desktop\projects\BookStore\Book Store\obj\Debug\Book Store.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\bin\Debug\Book Store.exe.config
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\bin\Debug\Book Store.exe
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\bin\Debug\Book Store.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\bin\Debug\BookLib.dll
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\bin\Debug\BookLib.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\obj\Debug\Book Store.exe
+C:\Users\almog\OneDrive\שולחן העבודה\projects\BookStore\Book Store\obj\Debug\Book Store.pdb

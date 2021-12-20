@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kE6VCng1piqosIaf3s5IC51cet8vuiAIUmtwpHqtd9a5wWi38drdGbz6DIw+YZRCsWaPk+NJaor/My3tsziGgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almog\\OneDrive\\שולחן העבודה\\projects\\BookStore\\Map Viewer\\Map Viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almog\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\almog\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
